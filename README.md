@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ## Oi, meu nome é Fabiana Ramos
 ## Sou estudante de Ciência da Computação e Desenvolvedora Jr
