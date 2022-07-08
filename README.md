@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## Oiii eu sou a Fabiana Ramos, sou estudante de Ciência da Computação e Desenvolvedora Jr!
+## Oi, meu nome é Fabiana Ramos
+## Sou estudante de Ciência da Computação e Desenvolvedora Jr
+## Bem vindo ao meu perfil! 
 <div align="center">
   <a href="https://github.com/fabirmss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabirmss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
