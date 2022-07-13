@@ -5,7 +5,7 @@
 ## Bem vindo ao meu perfil! 
 <div align="center">
   <a href="https://github.com/fabirmss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabirmss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?       username=fabirmss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabirmss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
@@ -25,7 +25,7 @@
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   
 <div> 
-
+  <br>
   <a href="https://instagram.com/fabirmss" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
