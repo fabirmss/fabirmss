@@ -1,3 +1,17 @@
+
+<h3> Oi, meu nome é Fabi! Sou ex competidora de robótica, formada em Técnico em Informática e estudante de Ciência da Computação. 
+Atuando com desenvolvedora Back-End Jr com as tecnologias PHP e Laravel. 
+
+
+Interessada nas áreas:
+- Desenvolvimento
+- Robótica 
+- Automação 
+- Inteligência artificial.
+
+</h3>
+
+
 <div align="center">
   <a href="https://github.com/fabirmss">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabirmss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
