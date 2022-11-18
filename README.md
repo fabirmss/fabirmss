@@ -3,8 +3,8 @@
   Estudante de Ciência da Computação. 
   <br>
   Dev. Back-End Jr.
-  <br> 
-Interessada nas áreas:
+
+ Interessada nas áreas:
 - Desenvolvimento
 - Robótica 
 - Automação 
