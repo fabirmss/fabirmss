@@ -2,9 +2,8 @@
 <h3> Oi, meu nome é Fabi! <br> 
   Estudante de Ciência da Computação. 
   <br>
-Dev. Back-End Jr.
-
-
+  Dev. Back-End Jr.
+  <br> 
 Interessada nas áreas:
 - Desenvolvimento
 - Robótica 
