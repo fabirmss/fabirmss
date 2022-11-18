@@ -1,6 +1,6 @@
 
-<h3> Oi, meu nome é Fabi! Sou ex competidora de robótica, formada em Técnico em Informática e estudante de Ciência da Computação. 
-Atuando como desenvolvedora Back-End Jr com as tecnologias PHP e Laravel. 
+<h3> Oi, meu nome é Fabi! Estudante de Ciência da Computação. 
+Dev. Back-End Jr.
 
 
 Interessada nas áreas:
