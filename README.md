@@ -1,5 +1,7 @@
 
-<h3> Oi, meu nome é Fabi! Estudante de Ciência da Computação. 
+<h3> Oi, meu nome é Fabi! <br> 
+  Estudante de Ciência da Computação. 
+  <br>
 Dev. Back-End Jr.
 
 
