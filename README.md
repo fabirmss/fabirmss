@@ -15,15 +15,12 @@
 
 <div align="center">
   <a href="https://github.com/fabirmss">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabirmss&show_icons=true&theme=dark&show_icons=true=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabirmss&layout=compact&theme=dark&show_icons=true=true&count_private=true)](https://https://github.com/fabirmss/github-readme-stats)"/>
-
 </div>
 
 <div style="display: inline_block">
   <br>
   
-   <img align="center" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+   <img align="center" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
 
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   
