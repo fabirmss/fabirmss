@@ -1,17 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B1D8AFF&height=120&section=header"/>
 
-<h3> Hi, my name is Fabi! <br> 
-  Computer Science Student
-  <br>
-  Back-end Software Developer
-
- Interest:
-
-- Robotic 
-- Automation
-- Artificial Intelligence
-
-</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B1D8AFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Fabi+Ramos;I'm+22+years+old;I'm+from+Brazil;Computer+Science+Student;Back-end+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/fabirmss">
@@ -20,10 +9,13 @@
 
 </div>
 
-<div style="display: inline_block">
+ 
+<div  align ="center" style="display: inline_block">
   <br>
   
-   <img align="center" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  ### Main skills:
+  
+   <img align="center" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
 
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   
@@ -41,11 +33,15 @@
   
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> 
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/> 
   
- 
-<br>
-<br>
+</div> 
+
+
+<div  align ="center" style="display: inline_block">
+
+  ### My networks:
+  
   <a href="https://instagram.com/fabirmss" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -57,9 +53,19 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
-    ![Snake animation](https://github.com/fabirmss/fabirmss/blob/output/github-contribution-grid-snake.svg)
-
-  
 </div>
-  
-  
+
+<div align="center">
+<br>
+<p align="centre">
+	<b> Visitors Count</b>
+</p>  
+<p align="center">
+	<img align="center" src="https://profile-counter.glitch.me/{fabirmss}/count.svg"/>
+</p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B1D8AFF&height=120&section=footer"/>
+
