@@ -3,7 +3,7 @@
 Sou desenvolvedora e estudante da área de tecnologia, com interesse em desenvolvimento de software e sistemas web.
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabirmss&show_icons=true&theme=github_dark&hide_border=true"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabirmss&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=f8d7e3&icon_color=ff69b4&hide_border=true"/>
 </div>
 
 ### Tecnologias
