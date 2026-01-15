@@ -11,14 +11,11 @@ Sou desenvolvedora e estudante da área de tecnologia, com interesse em desenvol
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
 ### Contato
 <div align="center">
-  <a href="mailto:fabirms00@gmail.com">📧 Email</a> •
+  <a href="mailto:fabirms00@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/fabiana-ramos-341b55163/">LinkedIn</a> •
-  <a href="https://instagram.com/fabirmss">Instagram</a>
 </div>
