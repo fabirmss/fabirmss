@@ -19,3 +19,15 @@ Sou desenvolvedora e estudante da área de tecnologia, com interesse em desenvol
   <a href="mailto:fabirms00@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/fabiana-ramos-341b55163/">LinkedIn</a> •
 </div>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/fabirmss/fabirmss/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/fabirmss/fabirmss/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/fabirmss/fabirmss/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
