@@ -8,7 +8,7 @@
 <p align="left"> 
   Olá! Eu sou a <strong>Fabi</strong> 👩‍💻 <br>
   Sou <strong>estudante de Ciência da Computação</strong>.<br>
-  Gosto da área de <strong>desenvolvimento</strong> e <strong> automaçãoes </strong>, sempre buscando criar soluções práticas e eficientes.
+  Gosto da área de <strong>desenvolvimento</strong> e <strong>automação</strong>, sempre buscando criar soluções práticas e eficientes.
 </p>
 
 <p align="left">
